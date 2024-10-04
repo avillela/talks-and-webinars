@@ -13,6 +13,7 @@ Listing of Adriana's speaking engagements, webinar appearances, and podcast appe
 * [KubeCon EU 2024 - Prometheus & OpenTelemetry: Better Together](https://youtu.be/LJd1pJ0k28g?si=0_PfLMVwmk39Zipt)
 * [KubeCon NA 2023 - Empowering Users Through Platform Engineering](https://youtu.be/18OzVFoOZTU?si=6O4wakIff7ce3ahz)
 * [Observability Day NA 2023 - Observe Thy CI/CD Pipelines with OpenTelemetry](https://youtu.be/h1miFQbeYWA?si=wybCnXZUxj27J2g0)
+* [All Things Open 2023: Be Nice in the Sandbox - How Open Source Gets Competitors to Collaborate](https://2023.allthingsopen.org/sessions/be-nice-in-the-sandbox-how-open-source-gets-competitors-to-collaborate/)
 * [Sepbember 2023 Kubernetes Toronto Meetup](https://youtu.be/lr3L1Y0osO8?si=NxfpLXdfz_fkv8Wm)
 * [DevOps Days Kyiv 2023 - The Case for Self-Service Tooling](https://youtu.be/xpP5PKVbuGk?si=p9-XOgUVm_J7RuvC)
 * [SLOConf Monthly - Observability Anti-Patterns](https://youtu.be/sUWG5MtdVN4?si=zHqOx6xDqoxNHKWA)
@@ -24,6 +25,27 @@ Listing of Adriana's speaking engagements, webinar appearances, and podcast appe
 * [CTO Craft Con - Observability Anti-Patterns](https://youtu.be/EIsV08pnZnY?si=fLhQUNBzScW2W6MB)
 * [Observability Landscape as Code with Terraform](https://youtu.be/ZIXqZwUdXOM?si=lSee5VN4Wv2Lpd_C)
 * [DevTO #92: Scaling with Ephemeral Pipelines](https://youtu.be/Y8IhX0F7DyU?si=VdFmdl0r3-xwDMAS)
+
+## Panels
+
+* [Cloud Native Islamabad - KuberTENes Birthday Bash](https://www.youtube.com/live/wb2-eUhHPRc?si=aS-zx0BRiQI1aRsN)
+* [DevOps.com - AI, DevOps, and the Future of Testing Centers of Excellence](https://youtu.be/TZ0euOmz0kU?si=b5f23BdkDcKAJatF)
+* [KubeCon Europe 2024 Highlights - Live Discussion](https://www.youtube.com/live/ncHmqUuWe7I?si=Nsv8i4L_rSneI1Mp)
+* [Observability Panel with Charity Majors, Amy Tobey, and Adriana Villela](https://youtu.be/Fuy3W5bro9k?si=yDnCP_X2C3ikigdU)
+* [DevOps Institute SkilUP Hours - Continuous Testing & Test Automation](https://www.youtube.com/watch?v=xgTXzqklBfk&list=PLotLY1RC8HovddLQxb4e3KMxyrFMYB9OC&index=7)
+* [DevOps Institute SkilUP Hours - Toolchain Orchestration](https://youtu.be/6eZfl7Jfnsk?si=4vPjMMnfGXGKILL3)
+* [DevOps Institute SkilUP Hours - Observability with OpenTelemetry](https://www.devopsinstitute.com/skiluphours-observability-jun-2023/)
+* [DevOps Unbound Roundtable - Living at the Intersection Between DevOps and Observability](https://techstrong.tv/videos/devops-unbound/living-at-the-intersection-between-testing-and-observability-devops-unbound-roundtable)
+* [The SRE SHow: Finding the Heart of SRE - How to Build an Empathetic SRE Practice](https://techstrong.tv/videos/the-sre-show/finding-the-heart-of-sre-how-to-build-an-empathetic-sre-practice-the-sre-show-ep-10)
+* [Monthly Hashistack Live Chat](https://www.youtube.com/watch?v=OvmQ1TdBlIw)
+* [OpenTelemetry 101 - NewRelic x Honeycomb x Lightstep Livestream](https://www.youtube.com/live/4Aqp5zpPpsU?feature=share)
+* [SLOConf 2023 Panel - What Do SLOs Really Mean?](https://youtu.be/tyP6hy6rT-8?si=Rh-7ZhR5VpMjRrs8)
+* [Women in Observability: Then, Now, and Beyond](https://youtu.be/gsFEmiiwCmM?si=8c4GM7FTfeTYFgmv)
+* [CTO Craft Con 2023 - Debate: Tests vs Observability](https://youtu.be/mF7KRQ5m30U?si=AI2o1lxgoQ491xKV)
+* [DevOps.com - What 2022 Taught Us About SRE's Future](https://youtu.be/o0Pgo2fWIUc?si=qe-nUzvb_oVNlHGZ)
+* [TechstrongTV - Living at the Intersection Between Testing and Observability](https://youtu.be/yvJYI06t8Mk?si=fDQVMDjQFDSpJZRu)
+* [TechstrongTV - Building a Platform and SRE Team](https://youtu.be/7cV5nG130yc?si=6sTxCB9qtOzwP8OF)
+
 
 ## 2023
 
