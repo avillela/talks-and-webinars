@@ -2,6 +2,29 @@
 
 Listing of Adriana's speaking engagements, webinar appearances, and podcast appearances.
 
+## Talks
+
+* [DevOps Days Montreal 2024 - Beyond Platform Engineering](https://youtu.be/a8eomJYDJ88?si=4W1NXTH1JjQK76XX)
+* [Portal Talks 2024 - Onboarding Doesn't Have to Suck](https://youtu.be/Jl3tUIckZT0?si=1SWep1kvV9DqtmGk)
+* [Open Source Summit NA 2024 - Onboarding Doesn't Have to Suck](https://youtu.be/zN6mXIsekoA?si=I_BuL9J5cXnQ4Suy)
+* [Observable Lightning Talks - April 2024](https://www.youtube.com/live/5yvvsQVMxHY?si=NFQ8HYXGAB4yU-Ag)
+* [HashiTalks 2024 - KubeNomad: How to Run Kubernetes on Nomad](https://youtu.be/4-L9mwbJNbY?si=7i_NzOeztHZJ3Fk6)
+* [Observability Day EU 2024 - Dude, Where's My Error?](https://youtu.be/mfIaqvPHAjE?si=3lVi93iX3xC8GazT)
+* [KubeCon EU 2024 - Prometheus & OpenTelemetry: Better Together](https://youtu.be/LJd1pJ0k28g?si=0_PfLMVwmk39Zipt)
+* [KubeCon NA 2023 - Empowering Users Through Platform Engineering](https://youtu.be/18OzVFoOZTU?si=6O4wakIff7ce3ahz)
+* [Observability Day NA 2023 - Observe Thy CI/CD Pipelines with OpenTelemetry](https://youtu.be/h1miFQbeYWA?si=wybCnXZUxj27J2g0)
+* [Sepbember 2023 Kubernetes Toronto Meetup](https://youtu.be/lr3L1Y0osO8?si=NxfpLXdfz_fkv8Wm)
+* [DevOps Days Kyiv 2023 - The Case for Self-Service Tooling](https://youtu.be/xpP5PKVbuGk?si=p9-XOgUVm_J7RuvC)
+* [SLOConf Monthly - Observability Anti-Patterns](https://youtu.be/sUWG5MtdVN4?si=zHqOx6xDqoxNHKWA)
+* [Monitorama 2023 - Observability Anti-Patterns](https://www.youtube.com/live/CRJcc1TqBhM?si=9IYLGQhdnnFvGR06)
+* [Open Source Summit NA 2023 - How to Be An Ethical Engineering Leader](https://youtu.be/pCXv1ZvWY-Y?si=bZEnltVUMvFQQYnN)
+* [Rejekts EU 2023 - Landing Among the Stars: How Community Powers the Adoption of Open Source](https://youtu.be/F1GsX2VTVxk?si=5Y28__KuX5wVadLD)
+* [SLOConf 2023 - Translating Failure into SLOs](https://youtu.be/Mgzt4bq0JU4?si=AUrbjmxppyBxP6I1)
+* [DevOps Toronto April 2023 - Observability Anti-Patterns](https://youtu.be/gzlyw6-Xtxc?si=8Lg4yxHuw1yhOUeV)
+* [CTO Craft Con - Observability Anti-Patterns](https://youtu.be/EIsV08pnZnY?si=fLhQUNBzScW2W6MB)
+* [Observability Landscape as Code with Terraform](https://youtu.be/ZIXqZwUdXOM?si=lSee5VN4Wv2Lpd_C)
+* [DevTO #92: Scaling with Ephemeral Pipelines](https://youtu.be/Y8IhX0F7DyU?si=VdFmdl0r3-xwDMAS)
+
 ## 2023
 
 * [DevOps Unbound Roundtable: Living at the Intersection Between DevOps and Observability](https://techstrong.tv/videos/devops-unbound/living-at-the-intersection-between-testing-and-observability-devops-unbound-roundtable)
